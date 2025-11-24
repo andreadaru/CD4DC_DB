@@ -1,6 +1,4 @@
 data_image0
-_publ_author   Andrea Darù
-_publ_DOI   10.1002/adma.202414617
 _chemical_formula_structural       In3H66C132O24Na3
 _chemical_formula_sum              "In3 H66 C132 O24 Na3"
 _cell_length_a       16.051553691016803
